@@ -1,1 +1,2 @@
 ## Challenge Alura Store
+En este challenge debemos seleccionar de cual tienda prescindir mediante analisis de los dataframes de acuerdo a datos de facturacion, envio, productos, categorias, calificacion etc.
